@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 ## Hi, I'm Gaurav 👋
 
 Software Engineer | Systems & Backend Curious  
