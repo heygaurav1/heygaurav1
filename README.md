@@ -151,6 +151,6 @@ Leadership · Team Collaboration · Public Speaking · Problem Solving · Creati
 
 
 <div align="center">
-  <i>💡 Open to exciting opportunities
+  <i> Open to opportunities and collaborations and building something impactful
 </div>
 
