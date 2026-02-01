@@ -163,7 +163,7 @@ Built a professional cross-platform employee attendance management system:
 <br/>
 
 <div align="center">
-  <a href="https://codeforces.com/profile/kushagra_1710" target="_blank">
+  <a href="[https://codeforces.com/profile/kushagra_1710](https://codeforces.com/profile/gauravpaul7887)" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://www.codechef.com/users/ks_17" target="_blank">
