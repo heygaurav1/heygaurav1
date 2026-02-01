@@ -42,7 +42,7 @@ Firebase, C++, DSA</strong></p>
 <br/>
 
 <div align="center">
-  <a href="https://leetcode.com/u/kushagra_1710/">
+  <a href="[https://leetcode.com/u/kushagra_1710/](https://leetcode.com/u/heygaurav77/)">
     <img src="https://leetcard.jacoblin.cool/kushagra_1710?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </div>
