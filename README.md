@@ -1,7 +1,4 @@
-## Hi, I'm Gaurav 👋
 
-Software Engineer | Systems & Backend Curious  
-Currently exploring Rust, scalable systems, and performance engineering.
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gourav+Paul!;" alt="Typing SVG" />
@@ -50,7 +47,7 @@ Firebase, C++, DSA</strong></p>
 <br/>
 
 <div align="center">
-  <a href="https://codeforces.com/profile/kushagra_1710">
+  <a href="https://codeforces.com/profile/gauravpaul7887">
     <img src="https://img.shields.io/badge/Codeforces-1646_(Expert)-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://www.codechef.com/users/ks_17">
