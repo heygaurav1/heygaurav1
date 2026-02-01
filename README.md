@@ -70,44 +70,30 @@ Firebase, C++, DSA</strong></p>
 
 <br/><br/>
 
+<h2 align="center">💼 Technical Focus & Skills</h2>
+**Languages: C, C++, Python, Swift, Java, JavaScript, TypeScript, HTML, CSS
 
+**Web & Backend: Node.js, Express.js, Spring Boot, REST APIs, Middleware
+
+**Mobile Development (Hobby): SwiftUI, React Native
+
+**Databases & Storage: PostgreSQL (Supabase), MySQL, Firebase (Auth, Firestore, Realtime DB), Core Data
+
+**DevOps & Cloud: Docker, Kubernetes, AWS, GitHub Actions (CI/CD)
+
+**Frameworks & Libraries: Combine, Foundation, Dispatch (GCD), Redux, Tailwind CSS, Matplotlib, Seaborn, NumPy, Transformers
+
+**Architecture Patterns: MVVM, MVC, Clean Architecture, Dependency Injection, Saga Pattern, MCP Architecture
+
+**Developer Tools: Git, GitHub, Linux, Xcode, Android Studio, VS Code, Postman, JSON
+
+**Emerging Tech: Applied AI, Generative AI, Vector Databases, WebRTC, Solana (blockchain fundamentals), Rust (systems fundamentals)
+
+**Soft Skills: Leadership, Team Collaboration, Public Speaking, Problem Solving, Creative Thinking
 
 <br/>
 
 <h2 align="center">📱 Featured Projects 📱</h2>
-<br/>
-<h2 align="center">💼 Technical Proficiencies</h2>
-🧠 Programming Languages
-
-C · C++ · Python · Swift · Kotlin · Java · JavaScript · HTML · CSS · MATLAB
-
-📱 Mobile Development
-
-iOS: Swift, SwiftUI, Combine, Core Data
-
-Android: Kotlin, Jetpack Compose, Hilt
-
-Cross-Platform: Flutter, React Native, Dart
-
-🗄️ Backend & Databases
-
-Firebase (Authentication, Realtime Database, Firestore), MySQL
-
-🧩 Frameworks & Libraries
-
-Foundation, Dispatch (GCD), Combine, UserNotifications, Charts
-
-🏗️ Architecture & Design
-
-MVVM, MVC, Clean Architecture, Dependency Injection
-
-🛠️ Tools & Environment
-
-Git, GitHub, Xcode, Android Studio, VS Code, Postman, Linux, JSON, MS Office
-
-🤝 Soft Skills
-
-Leadership · Team Collaboration · Public Speaking · Problem Solving · Creative Thinking
 <br/>
 
 <h2 align="center">📊 GitHub Activity 📊</h2>
