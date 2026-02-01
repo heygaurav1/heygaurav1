@@ -28,9 +28,7 @@ Firebase, C++, DSA</strong></p>
   <a href="https://github.com/heygaurav1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
+
 </div>
 
 <br/>
