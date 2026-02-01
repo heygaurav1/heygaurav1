@@ -129,12 +129,10 @@ Leadership · Team Collaboration · Public Speaking · Problem Solving · Creati
   <a href="[https://codeforces.com/profile/kushagra_1710](https://codeforces.com/profile/gauravpaul7887)" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://www.codechef.com/users/ks_17" target="_blank">
+  <a href="https://www.codechef.com/users/heygaurav21" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://www.naukri.com/code360/profile/cefee105-b683-4adf-afda-70ce453fc747" target="_blank">
-    <img src="https://img.shields.io/badge/Code360-FF6B35?style=for-the-badge&logo=coding-ninjas&logoColor=white" alt="Code360" />
-  </a>
+ 
 </div>
 
 <br/>
