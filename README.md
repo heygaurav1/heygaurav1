@@ -80,71 +80,44 @@ Firebase, C++, DSA</strong></p>
 - **Certificate of Excellence:** C++ DSA with 95% score, validating exceptional algorithmic problem-solving skills
 - **Problem-Solving Mastery:** 500+ problems solved across GeeksforGeeks, Code360, and multiple competitive platforms
 
-### 🚀 Professional Experience:
-- **App Developer Intern @ CodSoft (May-June 2025):** Developed and deployed To-do list and Weather apps, demonstrating iOS development expertise
 
-<br/>
-
-<h2 align="center">🛠️ Tech Stack 🛠️</h2>
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,cpp,python,java,c" alt="Languages" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=firebase,react,flutter,mysql,html,css" alt="Frameworks & Databases" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,linux" alt="Tools" />
-</div>
 
 <br/>
 
 <h2 align="center">📱 Featured Projects 📱</h2>
 <br/>
+<h2 align="center">💼 Technical Proficiencies</h2>
+🧠 Programming Languages
 
-### 💰 CryptoVision | SwiftUI, Firebase, MVVM, CoreData, Combine, Charts
-**[View on GitHub →](#)**
+C · C++ · Python · Swift · Kotlin · Java · JavaScript · HTML · CSS · MATLAB
 
-Developed a comprehensive cryptocurrency investment platform with advanced features:
-- Engineered robust MVVM architecture with secure Firebase authentication (Google & Apple Sign-In)
-- Built real-time portfolio analytics dashboard showcasing top 5 cryptocurrencies with interactive charts
-- Implemented intelligent recommendation engine using matrix-based analysis, improving precision by 30%
-- Deployed advanced multi-level sorting and real-time price alerts for data-driven investment strategies
+📱 Mobile Development
 
-### 🛒 FreshCart | SwiftUI, MVVM, Native iOS Development
-**[View on GitHub →](#)**
+iOS: Swift, SwiftUI, Combine, Core Data
 
-Created a scalable native iOS e-commerce application:
-- Reduced UI boilerplate code by 40% compared to UIKit using SwiftUI's declarative syntax
-- Implemented clean MVVM architecture, improving code maintainability and testability by 25%
-- Designed seamless checkout flow from "Add to Cart" to "Purchase" with optimized state management
+Android: Kotlin, Jetpack Compose, Hilt
 
-### 👥 StaffSync | Kotlin Multiplatform, Jetpack Compose, Firebase, CI/CD
-**[View on GitHub →](#)**
+Cross-Platform: Flutter, React Native, Dart
 
-Built a professional cross-platform employee attendance management system:
-- Achieved 90%+ shared business logic across 4 platforms using Kotlin Multiplatform
-- Reduced frontend development time by 40% with unified Jetpack Compose UI system
-- Automated testing, APK signing, and deployment with GitHub Actions CI/CD pipeline
-- Integrated background location services and real-time database synchronization
+🗄️ Backend & Databases
 
-<br/>
+Firebase (Authentication, Realtime Database, Firestore), MySQL
 
-<h2 align="center">💼 Technical Proficiencies 💼</h2>
+🧩 Frameworks & Libraries
 
-**Languages:** C, C++, Python, Swift, Kotlin, Java, JavaScript, HTML, CSS, MATLAB
+Foundation, Dispatch (GCD), Combine, UserNotifications, Charts
 
-**Mobile Development:** SwiftUI, Jetpack Compose, Flutter, React Native, Dart
+🏗️ Architecture & Design
 
-**Backend & Database:** Firebase (Auth, Realtime DB, Firestore), MySQL, Core Data
+MVVM, MVC, Clean Architecture, Dependency Injection
 
-**Frameworks & Libraries:** Combine Framework, Foundation, Dispatch, Hilt, UserNotifications, Charts
+🛠️ Tools & Environment
 
-**Developer Tools:** Git, GitHub, Xcode, Android Studio, VS Code, Postman, JSON, Linux, MS Office
+Git, GitHub, Xcode, Android Studio, VS Code, Postman, Linux, JSON, MS Office
 
-**Architecture Patterns:** MVVM, MVC, Clean Architecture, Dependency Injection
+🤝 Soft Skills
 
-**Soft Skills:** Leadership, Team Management, Public Speaking, Problem Solving, Creative Thinking
-
+Leadership · Team Collaboration · Public Speaking · Problem Solving · Creative Thinking
 <br/>
 
 <h2 align="center">📊 GitHub Activity 📊</h2>
