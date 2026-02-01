@@ -52,7 +52,7 @@ Firebase, C++, DSA</strong></p>
   <a href="https://codeforces.com/profile/gauravpaul7887">
     <img src="https://img.shields.io/badge/Codeforces-1646_(Expert)-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://www.codechef.com/users/ks_17">
+  <a href="https://www.codechef.com/users/heygaurav21">
     <img src="https://img.shields.io/badge/CodeChef-1908_(4⭐)-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/ks4878h47">
