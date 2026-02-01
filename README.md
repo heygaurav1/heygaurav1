@@ -179,6 +179,6 @@ Built a professional cross-platform employee attendance management system:
 ---
 
 <div align="center">
-  <i>💡 Open to exciting opportunities in iOS Development, Cross-Platform Mobile Development, and Software Engineering!</i>
+  <i>💡 Open to exciting opportunities
 </div>
 
