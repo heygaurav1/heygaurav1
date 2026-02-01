@@ -12,8 +12,7 @@ Currently exploring Rust, scalable systems, and performance engineering.</h3>
 <div align="center">
   <p>🎓 Bachelor of Data Science & Artificial Intelligence @ <strong>TIU Kolkata Saltlake</strong></p>
   <p>🌱 Currently exploring Rust, scalable systems and Advanced DSA</strong></p>
-  <p>💬 Ask me about <strong>iOS Development, Cross-Platform Apps, Rust, MERN stack, Applied AI, DSA, and Open Source
-Firebase, C++, DSA</strong></p>
+  <p>💬 Ask me about <strong>iOS Development, Rust, MERN stack, Applied AI, DSA, and Open Source, DSA</strong></p>
 </div>
 
 <br/>
