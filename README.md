@@ -70,16 +70,6 @@ Firebase, C++, DSA</strong></p>
 
 <br/><br/>
 
-<h2 align="center">🏆 Achievements 🏆</h2>
-<br/>
-
-### 🥇 Competitive Programming Excellence:
-- **LeetCode Knight Badge:** Top 5.99% globally with 650+ problems solved | Peak Rating: 1846 | Best Rank: 551
-- **Codeforces Expert:** Peak Rating: 1646 | Ranked 308th in a Div.2 contest among thousands of participants
-- **CodeChef 4⭐:** Peak Rating: 1908 | Ranked 24th globally in CodeChef Starters Contest
-- **Certificate of Excellence:** C++ DSA with 95% score, validating exceptional algorithmic problem-solving skills
-- **Problem-Solving Mastery:** 500+ problems solved across GeeksforGeeks, Code360, and multiple competitive platforms
-
 
 
 <br/>
@@ -150,6 +140,17 @@ Leadership · Team Collaboration · Public Speaking · Problem Solving · Creati
 <br/>
 
 ---
+
+<h2 align="center">🏆 Achievements 🏆</h2>
+<br/>
+
+### 🥇 Competitive Programming Excellence:
+- **LeetCode Knight Badge:** Top 5.99% globally with 650+ problems solved | Peak Rating: 1846 | Best Rank: 551
+- **Codeforces Expert:** Peak Rating: 1646 | Ranked 308th in a Div.2 contest among thousands of participants
+- **CodeChef 4⭐:** Peak Rating: 1908 | Ranked 24th globally in CodeChef Starters Contest
+- **Certificate of Excellence:** C++ DSA with 95% score, validating exceptional algorithmic problem-solving skills
+- **Problem-Solving Mastery:** 500+ problems solved across GeeksforGeeks, Code360, and multiple competitive platforms
+
 
 <div align="center">
   <i>💡 Open to exciting opportunities
