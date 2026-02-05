@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gourav+Paul!;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Software Engineer | Systems & Backend Curious | Competitive Programmer | TIU Saltlake </h3>
+<h3 align="center">Software Engineer | Systems & Backend Curious | Competitive Programmer | TIU Kolkata Saltlake </h3>
 <h3>Backend Curious  
 Currently exploring Rust, scalable systems, and performance engineering.</h3>
 <br/>
