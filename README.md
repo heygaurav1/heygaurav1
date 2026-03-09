@@ -32,7 +32,7 @@ Currently exploring Rust, scalable systems, and performance engineering.</h3>
 
 <br/>
 
-<h2 align="center">⚡ Competitive Programming Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Competitive Programming Stats ⚡</h2> -->
 <br/>
 
 <div align="center">
