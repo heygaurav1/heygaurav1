@@ -32,7 +32,7 @@ Currently exploring Rust, scalable systems, and performance engineering.</h3>
 
 <br/>
 
- <h2 align="center">⚡ Leetcode Status ⚡</h2> 
+ <h2 align="center"> Leetcode Status </h2> 
 <div align="center">
   <a href="https://leetcode.com/u/heygaurav77/">
     <img
