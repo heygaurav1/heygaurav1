@@ -69,7 +69,7 @@ Currently exploring Rust, scalable systems, and performance engineering.</h3>
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushagra-1710&theme=react&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.heygaurav1&theme=react&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br/>
