@@ -14,6 +14,7 @@
 </p>
 <p align="center">
   🎓 <b>Bachelor of DS, ML & AI</b> @ TIU Kolkata
+  </br>
   🦀 Exploring <b>Rust & Distributed Systems</b>
 </p>
 
