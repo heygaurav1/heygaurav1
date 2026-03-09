@@ -2,10 +2,18 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gourav+Paul!;" alt="Typing SVG" />
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <strong>Software Developer | Competitive Programmer | Backend Curious</strong><br>
-  🎓 Bachelor of Data Science & AI @ TIU Kolkata <br>
+  🎓 Bachelor of Data Science & Machine Learning & AI @TIU Saltlake,Kolkata <br>
   🦀 Exploring Rust, Scalable Systems, and Performance Engineering
+</p> -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Developer-007ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Competitive_Programmer-FFA116?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend_Curious-333333?style=flat-square" />
+</p>
+<p align="center">
+  🎓 <b>Bachelor of DS, ML & AI</b> @ TIU Kolkata | 🦀 Exploring <b>Rust & Distributed Systems</b>
 </p>
 
 <p align="center">
