@@ -4,10 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gourav+Paul!;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Software Developer | Competitive Programmer | TIU Kolkata Saltlake </h3>
-<h3>Backend Curious  
+<h3 align="center">Software Developer | Competitive Programmer </h3>
+<!-- <h3> TIU Kolkata Saltlake | Backend Curious  
 Currently exploring Rust, scalable systems, and performance engineering.</h3>
-<br/>
+<br/> -->
 
 <!-- <div align="center">
   <p>🎓 Bachelor of Data Science & Artificial Intelligence @ <strong>TIU Kolkata Saltlake</strong></p>
