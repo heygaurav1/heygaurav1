@@ -1,124 +1,81 @@
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gourav+Paul!;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Software Developer | Competitive Programmer </h3>
-<!-- <h3> TIU Kolkata Saltlake | Backend Curious  
-Currently exploring Rust, scalable systems, and performance engineering.</h3>
-<br/> -->
+<p align="center">
+  <strong>Software Developer | Competitive Programmer | Backend Curious</strong><br>
+  🎓 Bachelor of Data Science & AI @ TIU Kolkata <br>
+  🦀 Exploring Rust, Scalable Systems, and Performance Engineering
+</p>
 
-<!-- <div align="center">
-  <p>🎓 Bachelor of Data Science & Artificial Intelligence @ <strong>TIU Kolkata Saltlake</strong></p>
-  <p>🌱 Currently exploring Rust, Solana, blockchain, scalable systems, and Advanced DSA</strong></p>
-  <p>💬 Ask me about <strong>iOS Development, Rust, MERN stack, Applied AI, DSA, and Open Source</strong></p>
-</div>
-
-<br/> -->
-
-
- <h2 align="center"> Leetcode Status </h2> 
-<div align="center">
-  <a href="https://leetcode.com/u/heygaurav77/">
-    <img
-      src="https://leetcard.jacoblin.cool/heygaurav77?theme=dark&ext=heatmap"
-      alt="LeetCode Stats."
-    />
-  </a>
-</div>
-
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra-1710&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kushagra-1710&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
-</div>
-
-<br/><br/>
-
-<h2>Skills</h2>
-**Languages: C, C++, Python, Swift, Java, JavaScript, TypeScript, HTML, CSS
-
-**Web & Backend: Node.js, Express.js, Spring Boot, REST APIs, Middleware
-
-**Mobile Development (Hobby): SwiftUI, React Native
-
-**Databases & Storage: PostgreSQL (Supabase), MySQL, Firebase (Auth, Firestore, Realtime DB), Core Data
-
-**DevOps & Cloud: Docker, Kubernetes, AWS, GitHub Actions (CI/CD)
-
-**Frameworks & Libraries: Combine, Foundation, Dispatch (GCD), Redux, Tailwind CSS, Matplotlib, Seaborn, NumPy, Transformers
-
-**Architecture Patterns: MVVM, MVC, Clean Architecture, Dependency Injection, Saga Pattern, MCP Architecture
-
-**Developer Tools: Git, GitHub, Linux, Xcode, Android Studio, VS Code, Postman, JSON
-
-**Emerging Tech: Applied AI, Generative AI, Vector Databases, WebRTC, Solana (blockchain fundamentals), Rust (systems fundamentals)
-
-**Soft Skills: Leadership, Team Collaboration, Public Speaking, Problem Solving, Creative Thinking
-
-<br/>
-
-<h2 align="center">📱 Featured Projects 📱</h2>
-<br/>
-
-<h2 align="center">📊 GitHub Activity 📊</h2>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.heygaurav1&theme=react&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+connect+on+LinkedIn!;Always+open+to+collaboration!+:)" alt="Closing Message" />
-</h3>
-
-<br/>
-
-<div align="center">
-  <a href="https://codeforces.com/profile/gauravpaul7887" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://www.codechef.com/users/heygaurav21" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
- 
-</div>
-
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-paul-678586246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://codeforces.com/profile/gauravpaul7887" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+  <a href="https://leetcode.com/u/heygaurav77/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="mailto:gouravkumarpaul1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-<h2 align="center">🏆 Achievements 🏆</h2>
-<br/>
-
-### 🥇 Competitive Programming Excellence:
-- **LeetCode Knight Badge:** Top 5.99% globally with 650+ problems solved | Peak Rating: 1846 | Best Rank: 551
-- **Codeforces Expert:** Peak Rating: 1646 | Ranked 308th in a Div.2 contest among thousands of participants
-- **CodeChef 4⭐:** Peak Rating: 1908 | Ranked 24th globally in CodeChef Starters Contest
-- **Certificate of Excellence:** C++ DSA with 95% score, validating exceptional algorithmic problem-solving skills
-- **Problem-Solving Mastery:** 500+ problems solved across GeeksforGeeks, Code360, and multiple competitive platforms
-
-
+### 📊 Statistical Overview
 <div align="center">
-  <i> Open to opportunities and collaborations and building something impactful
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+         <a href="https://leetcode.com/u/heygaurav77/">
+            <img src="https://leetcard.jacoblin.cool/heygaurav77?theme=dark&font=Righteous" width="100%" alt="LeetCode Stats" />
+         </a>
+      </td>
+      <td width="50%" align="center">
+         <img src="https://github-readme-stats.vercel.app/api?username=heygaurav1&show_icons=true&theme=react&border_radius=10&hide_border=false" width="100%" alt="GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heygaurav1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" width="100%" alt="Top Languages" />
+      </td>
+      <td width="50%" align="center">
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=heygaurav1&theme=react&border_radius=10" width="100%" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <a href="mailto:gouravkumarpaul1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/gaurav-paul-678586246/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/heygaurav1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+---
 
+### 🛠️ Technical Toolkit
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | C, C++, Python, Swift, Java, JavaScript, TypeScript, Rust (Basics) |
+| **Backend/Web** | Node.js, Express.js, Spring Boot, REST APIs, PostgreSQL, MySQL |
+| **Mobile/UI** | SwiftUI, React Native, Tailwind CSS, Core Data |
+| **DevOps/Cloud** | Docker, Kubernetes, AWS, GitHub Actions, Linux |
+| **Architecture** | MVVM, Clean Architecture, Dependency Injection, Saga Pattern |
+| **Libraries** | NumPy, Matplotlib, Transformers (GenAI), WebRTC, Redux |
+
+---
+
+### 🥇 Competitive Programming & Achievements
+- **LeetCode Knight ⚔️:** Top **5.99%** globally | 650+ Solved | Peak Rating: **1846**
+- **Codeforces Expert 🟦:** Peak Rating: **1646** | Rank **308** in Div.2 Contest
+- **CodeChef 4⭐:** Peak Rating: **1908** | Global Rank **24** in Starters Contest
+- **Problem Solving:** 500+ problems on GFG & Code360 | 95% Score in C++ DSA Certification
+
+---
+
+### 📱 Featured Projects
+<!-- Add your project cards here once ready -->
+<div align="center">
+  <i>Projects showcase coming soon...</i>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thanks+for+visiting!+✌️;Always+open+to+collaboration!+:)" alt="Closing Message" />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</p>
