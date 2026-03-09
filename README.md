@@ -42,7 +42,7 @@ Currently exploring Rust, scalable systems, and performance engineering.</h3>
 
 <br/><br/>
 
-<h2 align="center">💼 Technical Focus & Skills</h2>
+<h2>Skills</h2>
 **Languages: C, C++, Python, Swift, Java, JavaScript, TypeScript, HTML, CSS
 
 **Web & Backend: Node.js, Express.js, Spring Boot, REST APIs, Middleware
