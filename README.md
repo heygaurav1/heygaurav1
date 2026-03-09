@@ -32,21 +32,7 @@ Currently exploring Rust, scalable systems, and performance engineering.</h3>
 </div>
 
 
-<br/>
 
-<div align="center">
-  <a href="https://codeforces.com/profile/gauravpaul7887">
-    <img src="https://img.shields.io/badge/Codeforces-546_(newbie)-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://www.codechef.com/users/heygaurav21">
-    <img src="https://img.shields.io/badge/CodeChef-22837-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-500+-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra-1710&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
