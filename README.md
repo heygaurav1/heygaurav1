@@ -13,7 +13,8 @@
   <img src="https://img.shields.io/badge/Backend_Curious-333333?style=flat-square" />
 </p>
 <p align="center">
-  🎓 <b>Bachelor of DS, ML & AI</b> @ TIU Kolkata | 🦀 Exploring <b>Rust & Distributed Systems</b>
+  🎓 <b>Bachelor of DS, ML & AI</b> @ TIU Kolkata
+  🦀 Exploring <b>Rust & Distributed Systems</b>
 </p>
 
 <p align="center">
